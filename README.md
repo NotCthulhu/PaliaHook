@@ -1,4 +1,4 @@
-#Soft-Hack
+# Soft-Hack
 This repository contains a work-in-progress soft-hack for Palia, currently featuring functionalities such as ESP for Mineables and Creatures. 
 Currently compatible with Palia version 0.166.2.
 
